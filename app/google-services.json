@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681937846620",
+    "project_id": "geofiremultiplelocation-9a98d",
+    "storage_bucket": "geofiremultiplelocation-9a98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681937846620:android:0b9d1f5193e746f43dc199",
+        "android_client_info": {
+          "package_name": "com.krp.geofiremultiplelocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvY2Z8giaURf1UJAd7yK_hzXc_RZeQlo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
